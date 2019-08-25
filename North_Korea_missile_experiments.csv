@@ -1,0 +1,129 @@
+F1,Date,Date Entered/Updated,Launch Time (UTC),Missile Name,Missile Type,Launch Agency/Authority,Facility Name,Facility Location,Other Name,Facility Latitude,Facility Longitude,Landing Location,Apogee,Distance Travelled,Confirmation Status,Test Outcome
+1,1984-04-09,23-Dec-16,,Scud-B,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,Unknown,Unknown,Confirmed,Success
+2,1984-04-09,23-Dec-16,,Scud-B,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,Unknown,Unknown,Confirmed,Success
+3,1984-04-09,23-Dec-16,,Scud-B,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,200 km,Unknown,Confirmed,Success
+4,1984-09-01,23-Dec-16,,Scud-B,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,Unknown,Unknown,Confirmed,Failure
+5,1984-09-01,23-Dec-16,,Scud-B,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,200 km,Unknown,Confirmed,Failure
+6,1984-09-01,23-Dec-16,,Scud-B,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,200 km,Unknown,Confirmed,Failure
+7,1986-05-01,23-Dec-16,,Unknown,Unknown,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,Unknown,Unknown,Unconfirmed,Unknown
+8,1990-05-01,23-Dec-16,,Nodong,MRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,150 km,Unknown,Unconfirmed,Failure
+9,1990-06-01,23-Dec-16,,Scud-C,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664, East Sea,200 km,Unknown,Confirmed,Success
+10,1991-07-01,23-Dec-16,,Scud-C,SRBM,,Chihari Missile Base,Chiha-ri?/ Kangwon Province/ (North Korea),Chiha-ri Taepodong Base,38.62333,126.6847, East Sea,Unknown,Unknown,Confirmed,Success
+11,1992-06-01,23-Dec-16,,Nodong,MRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Unknown,0 km,Unknown,Unconfirmed,Failure
+12,1993-05-29,23-Dec-16,,Nodong,MRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664, East Sea,150 km,500 km,Confirmed,Success
+13,1993-05-29,23-Dec-16,,Scud-C,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664, East Sea,200 km,Unknown,Confirmed,Unknown
+14,1993-05-29,23-Dec-16,,Scud-C,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664, East Sea,200 km,Unknown,Confirmed,Success
+15,1993-05-30,23-Dec-16,,Scud-C,SRBM,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664, East Sea,200 km,Unknown,Confirmed,Success
+16,1998-08-31,23-Dec-16,,Taepodong-1,SLV,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,330km east of Hachinohe and 4000 km out into Pacific Ocean,Unknown,1/380 km,Confirmed,Failure
+17,2006-07-05,05-Jan-17,,Unha,SLV,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664, East Sea,40 km,Unknown,Confirmed,Failure
+18,2006-07-05,05-Jan-17,,Scud-C,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+19,2006-07-05,05-Jan-17,,Nodong,MRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+20,2006-07-05,05-Jan-17,,Scud-C,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+21,2006-07-05,05-Jan-17,,Nodong,MRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+22,2006-07-05,05-Jan-17,,Nodong,MRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+23,2006-07-05,05-Jan-17,,Nodong,MRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+24,2009-04-05,05-Jan-17,,Unha,SLV,,Tonghae Satellite Launching Ground,Hwadae County/ North Hamgyong Province,Musudan-ri,40.8499966,129.666664,Pacific Ocean,Unknown,,Confirmed,Failure
+25,2009-07-05,05-Jan-17,,Nodong,MRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+26,2009-07-05,05-Jan-17,,Nodong,MRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,150 km,Unknown,Confirmed,Success
+27,2009-07-05,05-Jan-17,,Scud-C,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,,Confirmed,Success
+28,2009-07-05,05-Jan-17,,Scud-C,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,,Confirmed,Success
+29,2009-07-05,05-Jan-17,,Scud-C,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,,Confirmed,Success
+30,2009-07-05,05-Jan-17,,Scud-C,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,,Confirmed,Success
+31,2009-07-05,05-Jan-17,,Scud-C,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,,Confirmed,Success
+32,2012-04-13,05-Jan-17,,Unha-3,SLV,,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,North Pyongan,39.6596,124.7057,Pacific Ocean,Unknown,Unknown,Confirmed,Failure
+33,2012-12-12,05-Jan-17,,Unha-3,SLV,,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,North Pyongan,39.6596,124.7057,N/A,581 km,N/A,Confirmed,Success
+34,2013-05-18,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Unconfirmed,Success
+35,2013-05-18,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Unconfirmed,Success
+36,2013-05-18,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Unconfirmed,Success
+37,2013-05-19,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Unconfirmed,Success
+38,2013-05-20,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Unconfirmed,Success
+39,2013-05-20,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Unconfirmed,Success
+40,2014-02-27,05-Jan-17,,Scud-B,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,80 km,200 km,Confirmed,Success
+41,2014-02-27,05-Jan-17,,Scud-B,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,Unknown,200 km,Confirmed,Success
+42,2014-02-27,05-Jan-17,,Scud-B,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,Unknown,200 km,Confirmed,Success
+43,2014-02-27,05-Jan-17,,Scud-B,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,Unknown,200 km,Confirmed,Success
+44,2014-03-03,05-Jan-17,,Scud-C,SRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817, East Sea,150 km,500 km,Confirmed,Success
+45,2014-03-03,05-Jan-17,,Scud-C,SRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817, East Sea,Unknown,500 km,Confirmed,Success
+46,2014-03-26,05-Jan-17,,Nodong,MRBM,,Sunchon Airbase,South Pyongan Province,,39.412594,125.89031, East Sea,150 km,650 km,Confirmed,Success
+47,2014-03-26,05-Jan-17,,Nodong,MRBM,,Sunchon Airbase,South Pyongan Province,,39.412594,125.89031, East Sea,150 km,650 km,Confirmed,Success
+48,2014-06-26,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+49,2014-06-29,23-Aug-17,,Scud-C,SRBM,,Masikryong,Kangwon Province/ (North Korea),Masikryong Ski Resort/ Masik Pass,39.065962,127.250257, East Sea,150 km,Unknown,Confirmed,Success
+50,2014-06-29,23-Aug-17,,Scud-C,SRBM,,Masikryong,Kangwon Province/ (North Korea),Masikryong Ski Resort/ Masik Pass,39.065962,127.250257, East Sea,150 km,Unknown,Confirmed,Success
+51,2014-07-09,29-Nov-17,,Scud-C,SRBM,,Hwangju,Hwangju/  North Hwanghae province,Unknown,38.686834,125.702005, East Sea,100 km,500 km,Confirmed,Success
+52,2014-07-09,29-Nov-17,,Scud-C,SRBM,,Hwangju,Hwangju/  North Hwanghae province,Unknown,38.686834,125.702005, East Sea,100 km,500 km,Confirmed,Success
+53,2014-07-13,05-Jan-17,,Scud-C,SRBM,,Kaesong,North Hwanghae Province,,37.9382,126.5878, East Sea,120 km,500 km,Confirmed,Success
+54,2014-07-13,05-Jan-17,,Scud-C,SRBM,,Kaesong,North Hwanghae Province,,37.9382,126.5878, East Sea,120 km,500 km,Confirmed,Success
+55,2014-07-26,05-Jan-17,,Scud-C,SRBM,,Unknown,Unknown,Unknown,Unknown,Unknown, East Sea,Unknown,500 km,Confirmed,Success
+56,2014-08-14,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+57,2014-09-01,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+58,2014-09-06,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+59,2015-02-08,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+60,2015-02-08,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+61,2015-02-08,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+62,2015-02-08,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+63,2015-02-08,05-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+64,2015-03-01,06-Jan-17,,Scud-C,SRBM,,Nampo,South Pyongan Province,,38.7523,125.3247, East Sea,134 km,490 km,Confirmed,Success
+65,2015-03-01,06-Jan-17,,Scud-C,SRBM,,Nampo,South Pyongan Province,,38.7523,125.3247, East Sea,134 km,490 km,Confirmed,Success
+66,2015-04-02,06-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+67,2015-04-03,06-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+68,2015-04-03,06-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+69,2015-04-03,06-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+70,2015-04-03,06-Jan-17,,KN-02,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),,39.40167,127.5369, East Sea,Unknown,Unknown,Confirmed,Success
+71,2015-05-08,06-Jan-17,,Polaris-1,SLBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839,Unknown,Unknown,Unknown,Confirmed,Success
+72,2015-11-28,06-Jan-17,,Polaris-1,SLBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839,N/A,N/A,N/A,Confirmed,Failure
+73,2015-12-21,06-Jan-17,,Polaris-1,SLBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839,N/A,N/A,N/A,Confirmed,Failure
+74,2016-02-07,28-Nov-17,12:29:00 AM,Unha-3,SLV,,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,North Pyongan,39.6596,124.7057,N/A,502 km,N/A,Confirmed,Success
+75,2016-03-10,06-Jan-17,,Scud-C,SRBM,,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005, East Sea,Unknown,Unknown,Confirmed,Success
+76,2016-03-10,06-Jan-17,,Scud-C,SRBM,,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005, East Sea,Unknown,Unknown,Confirmed,Success
+77,2016-03-18,06-Jan-17,,Nodong,MRBM,,Sunchon Airbase,South Pyongan Province,,39.412594,125.89031, East Sea,Unknown,800 km,Confirmed,Success
+78,2016-03-18,06-Jan-17,,Nodong,MRBM,,Sunchon Airbase,South Pyongan Province,,39.412594,125.89031, East Sea,17 km,Unknown,Confirmed,Failure
+79,2016-04-15,28-Nov-17,8:33:00 PM,Musudan,IRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817,Unknown,Unknown,Unknown,Confirmed,Failure
+80,2016-04-23,28-Nov-17,9:29:00 AM,Polaris-1,SLBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839,Unknown,Unknown,30 km,Confirmed,Success
+81,2016-04-27,28-Nov-17,9:33:00 PM,Musudan,IRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817,N/A,Unknown,Unknown,Confirmed,Failure
+82,2016-04-28,28-Nov-17,10:24:00 AM,Musudan,IRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817,N/A,Unknown,Unknown,Confirmed,Failure
+83,2016-05-30,28-Nov-17,8:30:00 PM,Musudan,IRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817,N/A,Unknown,Unknown,Confirmed,Failure
+84,2016-06-21,28-Nov-17,8:56:00 PM,Musudan,IRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817, East Sea,Unknown,Unknown,Confirmed,Failure
+85,2016-06-21,28-Nov-17,11:03:00 PM,Musudan,IRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817, East Sea,1400 km,400 km,Confirmed,Success
+86,2016-07-09,28-Nov-17,2:28:00 AM,Polaris-1,SLBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839, East Sea,10 km,Unknown,Confirmed,Failure
+87,2016-07-18,28-Nov-17,8:44:00 PM,Scud-C,SRBM,Hwasong Artillery Units of the KPA Strategic Forces,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005,Unknown,Unknown,Unknown,Confirmed,Success
+88,2016-07-18,28-Nov-17,8:58:00 PM,Scud-C,SRBM,Hwasong Artillery Units of the KPA Strategic Forces,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005,Unknown,Unknown,Unknown,Confirmed,Success
+89,2016-07-18,28-Nov-17,9:35:00 PM,Nodong,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005, East Sea,Unknown,500 km,Confirmed,Success
+90,2016-08-02,28-Nov-17,10:53:00 PM,Nodong,MRBM,,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005, East Sea,Unknown,1000 km,Confirmed,Success
+91,2016-08-02,28-Nov-17,10:53:00 PM,Nodong,MRBM,,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005,Unknown,Unknown,Unknown,Confirmed,Failure
+92,2016-08-23,28-Nov-17,8:29:00 PM,Polaris-1,SLBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839, East Sea,Unknown,500 km,Confirmed,Success
+93,2016-09-05,28-Nov-17,3:13:00 AM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005, East Sea,Unknown,1000 km,Confirmed,Success
+94,2016-09-05,28-Nov-17,3:13:00 AM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005, East Sea,Unknown,1000 km,Confirmed,Success
+95,2016-09-05,28-Nov-17,3:13:00 AM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Hwangju,Hwangju/  North Hwanghae province,Pyongyang Highway,38.686834,125.702005, East Sea,Unknown,1000 km,Confirmed,Success
+96,2016-10-14,28-Nov-17,6:33:00 PM,Musudan,IRBM,,Panghyon Airbase,Kusong/ North Pyongan,Panghyon Airport,39.927472,125.207889,Unknown,Unknown,Unknown,Confirmed,Failure
+97,2016-10-19,28-Nov-17,10:00:00 PM,Musudan,IRBM,,Panghyon Airbase,Kusong/ North Pyongan,Panghyon Airport,39.927472,125.207889,Unknown,Unknown,Unknown,Confirmed,Failure
+98,2017-02-11,28-Nov-17,10:55:00 PM,Polaris-2,MRBM,,Kusong Testing Ground,Kusong/ North Pyongan,,40.01325,125.22302, East Sea,550 km,500 km,Confirmed,Success
+99,2017-03-05,28-Nov-17,10:34:00 PM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,,39.6596,124.7057, East Sea,260 km,1000 km,Confirmed,Success
+100,2017-03-05,28-Nov-17,10:34:00 PM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,,39.6596,124.7057, East Sea,260 km,1000 km,Confirmed,Success
+101,2017-03-05,28-Nov-17,10:34:00 PM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,,39.6596,124.7057, East Sea,260 km,1000 km,Confirmed,Success
+102,2017-03-05,28-Nov-17,10:34:00 PM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,,39.6596,124.7057, East Sea,260 km,1000 km,Confirmed,Success
+103,2017-03-05,26-Mar-19,10:34:00 PM,ER Scud,MRBM,Hwasong Artillery Units of the KPA Strategic Forces,Sohae Satellite Launching Station,Cholsan County/ North Pyongan Province,,39.6596,124.7057,,,,Confirmed,Failure
+104,2017-03-21,28-Nov-17,10:00:00 PM,Unknown,Unknown,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817,N/A,0 km,,Confirmed,Failure
+105,2017-04-04,28-Nov-17,9:42:00 PM,Hwasong-12,IRBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839, East Sea,189 km,60 km,Confirmed,Failure
+106,2017-04-15,28-Nov-17,9:21:00 PM,Hwasong-12,IRBM,,Sinpo Shipyard,South Hamgyong province,,40.0368,128.1839,N/A,0 km,0 km,Confirmed,Failure
+107,2017-04-28,28-Nov-17,8:33:00 PM,Hwasong-12,IRBM,,Pukchang Airfield,South Pyongan Province,,39.504417,125.964333,N/A,71 km,,Confirmed,Failure
+108,2017-05-14,28-Nov-17,8:28:00 PM,Hwasong-12,IRBM,,North Kusong Testing Ground,Kusong/ North Pyongan,,40.0659,125.2099, East Sea,2111.5 km,787 km,Confirmed,Success
+109,2017-05-21,28-Nov-17,7:59:00 AM,Polaris-2,MRBM,,Lake Yonpung,South Pyongan Province,,39.618283,125.8035851, East Sea,560 km,500 km,Confirmed,Success
+110,2017-05-28,28-Nov-17,8:40:00 PM,Scud-C MaRV,SRBM,,Wonsan Kalma International Airport,Kangwon Province/ (North Korea),Wonsan Airbase,39.1677,127.4817, East Sea,120 km,400 km,Confirmed,Success
+111,2017-07-04,28-Nov-17,12:40:00 AM,Hwasong-14,ICBM,,Panghyon,Kusong/ North Pyongan,Panghyon-Dong/ Panghyon-Nodongjagu/ Panghyon Testing Site,39.872153,125.269192, East Sea,2802 km,933 km,Confirmed,Success
+112,2017-07-28,28-Nov-17,2:42:00 PM,Hwasong-14,ICBM,,Mupyong-ni Arms Plant,Mup'yong-ni/ Chagang province,Mupyong-ni Missile Base/ 2.8 General Machines Plant/ Mupyong-ni TEL Facility,40.611208,126.425743, East Sea,3724.9 km,998 km,Confirmed,Success
+113,2017-08-25,28-Nov-17,9:49:00 PM,Scud-B MaRV,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,250 km,Confirmed,Success
+114,2017-08-25,28-Nov-17,10:07:00 PM,Scud-B MaRV,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,N/A,Confirmed,Failure
+115,2017-08-25,28-Nov-17,10:19:00 PM,Scud-B MaRV,SRBM,,Kittaeryong Missile Base,Kittae Pass/ Kangwon Province/ (North Korea),Gitdaeryung,38.99083,127.6236, East Sea,,250 km,Confirmed,Success
+116,2017-08-28,28-Nov-17,8:58:00 PM,Hwasong-12,IRBM,,Pyongyang International Airport,Pyongyang/ North Korea,Sunan/ PY Airport/ Pyongyang Sunan International Airport,39.200159,125.673256,Pacific Ocean,550 km,2700 km,Confirmed,Unknown
+117,2017-09-14,28-Nov-17,9:57:00 PM,Hwasong-12,IRBM,,Pyongyang International Airport,Pyongyang/ North Korea,Sunan/ PY Airport/ Pyongyang Sunan International Airport,39.200159,125.673256,Pacific Ocean,770 km,3700 km,Confirmed,Success
+118,2017-11-28,29-Nov-17,6:18:00 PM,Hwasong-15,ICBM,,Pyongsong Field,Pyongsong/ South Pyongan Province,March 16 Factory,39.282,125.869, East Sea,4475 km,950 km,Confirmed,Success
+119,2019-05-04,06-May-19,1:54:00 AM,KN-23,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),North Wonson,39.40167,127.5369, East Sea,,200 km,Confirmed,Success
+120,2019-05-04,10-May-19,,KN-23,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),North Wonson,39.40167,127.5369,,,,Confirmed,Success
+121,2019-05-09,10-May-19,7:29:00 AM,KN-23,SRBM,,Baegun,North Pyongan/ North Korea,Kusong area,40.029678,125.227326,,50 km,420 km,Confirmed,Success
+122,2019-05-09,10-May-19,7:49:00 AM,KN-23,SRBM,,Baegun,North Pyongan/ North Korea,Kusong area,40.029678,125.227326,,,,Confirmed,Success
+123,2019-07-24,16-Aug-19,8:34:00 PM,KN-23,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),Hodo; North Wonson,39.40167,127.5369, East Sea,50 km,430 km,Confirmed,Success
+124,2019-07-24,16-Aug-19,8:57:00 PM,KN-23,SRBM,,Hodo Peninsula,Kangwon Province/ (North Korea),Hodo; North Wonson,39.40167,127.5369, East Sea,50 km,690 km,Confirmed,Success
+125,2019-08-06,16-Aug-19,,KN-23,SRBM,,Kwail Airbase,Kwail/ Kwail-gun/ South Hwanghae,"Kwail/ ""western area operational airbase""",38.421522,125.024421, East Sea,37 km,450 km,Confirmed,Success
+126,2019-08-06,16-Aug-19,,KN-23,SRBM,,Kwail Airbase,Kwail/ Kwail-gun/ South Hwanghae,"Kwail/ ""western area operational airbase""",38.421522,125.024421, East Sea,37 km,450 km,Confirmed,Success
+127,2019-08-09,16-Aug-19,8:34:00 PM,KN-25,SRBM,,Hungnam,Hamhung/ South Hamgyong,Chakto-dong/ Hamhung/ Hamhung Beach,39.811611,127.66375, East Sea,48 km,400 km,Confirmed,Success
+128,2019-08-09,16-Aug-19,8:50:00 PM,KN-25,SRBM,,Hungnam,Hamhung/ South Hamgyong,Chakto-dong/ Hamhung/ Hamhung Beach,39.811611,127.66375, East Sea,48 km,400 km,Confirmed,Success
